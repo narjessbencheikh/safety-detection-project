@@ -1,4 +1,4 @@
-# 🦺 Construction Site Safety Detection
+# Construction Site Safety Detection
 
 > Real-time detection of safety equipment (helmets & vests) using **YOLOv11** + automated audit reports via **Ollama LLM**
 
