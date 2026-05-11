@@ -49,8 +49,12 @@ def annotate(image_path: str, detections, labels: list) -> any:
     frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
 
     box_annotator   = sv.BoxAnnotator(thickness=2)
-    label_annotator = sv.LabelAnnotator(text_scale=0.5, text_thickness=1)
-
+    label_annotator = sv.LabelAnnotator(
+    text_scale=0.3,
+    text_thickness=1,
+    text_padding=4,
+     
+)
     annotated = box_annotator.annotate(frame.copy(), detections)
     annotated = label_annotator.annotate(annotated, detections, labels)
     return annotated
