@@ -169,6 +169,3 @@ Edit `train.py` to set your Roboflow API key and training parameters.
 
 ---
 
-## 📄 License
-
-MIT License — feel free to use and modify.
