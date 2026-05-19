@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-Ultralytics-purple)
 ![Ollama](https://img.shields.io/badge/LLM-Ollama%20llama3.2-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ---
 
