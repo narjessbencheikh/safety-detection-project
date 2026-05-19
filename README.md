@@ -2,9 +2,9 @@
 
 > Real-time detection of safety equipment (helmets & vests) using **YOLOv11** + automated audit reports via **Ollama LLM**
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-Ultralytics-purple)
-![Ollama](https://img.shields.io/badge/LLM-Ollama%20llama3.2-green)
+ ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+ ![YOLOv11](https://img.shields.io/badge/YOLOv11-Ultralytics-purple)
+ ![Ollama](https://img.shields.io/badge/LLM-Ollama%20llama3.2-green)
 
 
 
